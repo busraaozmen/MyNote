@@ -221,6 +221,7 @@
     <Compile Include="Dtos\NewNoteDto.cs" />
     <Compile Include="Dtos\NoteDto.cs" />
     <Compile Include="Dtos\UpdateNoteDto.cs" />
+    <Compile Include="Extensions\DtoExtensions.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

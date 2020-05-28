@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyNote.API.Dtos;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -29,5 +30,7 @@ namespace MyNote.API.Models
 
 
         public virtual ApplicationUser Author { get; set; }
+
+      
     }
 }
