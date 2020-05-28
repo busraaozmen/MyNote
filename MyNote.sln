@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNote.API", "MyNote.API\MyNote.API.csproj", "{9339A0CF-49F9-4977-889B-39FD9CC23AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNote.UI", "MyNote.UI\MyNote.UI.csproj", "{296E4CE8-4928-4B89-9C6B-7975A968928E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9339A0CF-49F9-4977-889B-39FD9CC23AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9339A0CF-49F9-4977-889B-39FD9CC23AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9339A0CF-49F9-4977-889B-39FD9CC23AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9339A0CF-49F9-4977-889B-39FD9CC23AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296E4CE8-4928-4B89-9C6B-7975A968928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296E4CE8-4928-4B89-9C6B-7975A968928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296E4CE8-4928-4B89-9C6B-7975A968928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296E4CE8-4928-4B89-9C6B-7975A968928E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F024052-956E-4CFC-8972-15D70D984598}
+	EndGlobalSection
+EndGlobal
