@@ -3,7 +3,7 @@
 }
 
 .page {
-    /*display: none;*/
+    display: none;
     height: 100%;
 }
 
@@ -13,6 +13,7 @@
 
     .message ul {
         margin-bottom: 0;
+        padding-left: 1rem;
     }
 
 .loading {
